@@ -33,8 +33,8 @@ def plain_text(msg, imie):
 
 
 def format_to_xml(msg, imie):
-    return ('{ "imie":"' + imie + '", mgs":' +
-            msg + '"}')
+    return ('<greetings>' + '<name>'+ imie + '</name> ' + '<msg>' + msg + '</msg>' + '</greetings>')
+
 
 def plain_text_upper_case(msg, imie):
     return plain_text(msg.upper(), imie.upper())
