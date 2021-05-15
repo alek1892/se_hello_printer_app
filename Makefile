@@ -22,6 +22,9 @@ docker_run: docker_build
 			-p 5000:5000 \
 			-d hello-world-printer
 
+test_smoke:
+	curl --fail 127.0.0.1:5000
+
 USERNAME=alek1892
 TAG=$(USERNAME)/hello-world-printer
 
