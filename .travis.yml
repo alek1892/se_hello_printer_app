@@ -12,3 +12,7 @@ script:
   - make docker_push
 #after_success:
 #  - make docker_build
+deploy:
+  provider: heroku
+  app: nameless-temple-83567
+  api_key: ${HEROKU_API_KEY}
