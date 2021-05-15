@@ -60,9 +60,15 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # miejsce na twoje notatki
+
+  monitoring w statuscake
+  https://nameless-temple-83567.herokuapp.com/
+  grupa - moja grupa (alek1892@gmail.com)
+  test name - Moja apka
   ```
 
 # Pomocnicze
+
 
 ## Ubuntu
 
