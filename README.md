@@ -65,6 +65,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   https://nameless-temple-83567.herokuapp.com/
   grupa - moja grupa (alek1892@gmail.com)
   test name - Moja apka
+
+
+  BADGE
+  [![Build Status](https://travis-ci.org/alek1892/se_hello_printer_app.svg?branch=master)](https://travis-ci.org/alek1892/se_hello_printer_app)
+
+  https://app.statuscake.com/button/index.php?Track=5961428&Days=1&Design=1
+
   ```
 
 # Pomocnicze
